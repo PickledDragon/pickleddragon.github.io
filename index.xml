@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PickledDragon</title>
+    <link>https://pickleddragon.github.io/</link>
+    <description>PickledDragon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2020 20:13:28 +0100</lastBuildDate>
+    
+    <atom:link href="https://pickleddragon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About PickledDragon</title>
+      <link>https://pickleddragon.github.io/about/</link>
+      <pubDate>Sun, 08 Mar 2020 20:13:28 +0100</pubDate>
+      
+      <guid>https://pickleddragon.github.io/about/</guid>
+      <description>&lt;p&gt;Hello There! My name is Praveen Kottarathil; I am a Software Developer based in the Netherlands. I have been working in various parts of the IT Ecosystem, since my first job as a Software Developer and Trainer back in in 2004 and never looked back. This site is an ongoing work-in-progress. Expect to see more contents here soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
