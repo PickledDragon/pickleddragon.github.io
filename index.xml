@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PickledDragon</title>
-    <link>https://pickleddragon.github.io/</link>
-    <description>PickledDragon</description>
+    <title>Praveen Kottarathil</title>
+    <link>https://praveen.kottarathil.net/</link>
+    <description>Praveen Kottarathil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Mar 2020 20:13:28 +0100</lastBuildDate>
     
-    <atom:link href="https://pickleddragon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://praveen.kottarathil.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About PickledDragon</title>
-      <link>https://pickleddragon.github.io/about/</link>
+      <title>About Me</title>
+      <link>https://praveen.kottarathil.net/about/</link>
       <pubDate>Sun, 08 Mar 2020 20:13:28 +0100</pubDate>
       
-      <guid>https://pickleddragon.github.io/about/</guid>
-      <description>&lt;p&gt;Hello There! My name is Praveen Kottarathil; I am a Software Developer based in the Netherlands. I have been working in various parts of the IT Ecosystem, since my first job as a Software Developer and Trainer back in in 2004 and never looked back. This site is an ongoing work-in-progress. Expect to see more contents here soon.&lt;/p&gt;
+      <guid>https://praveen.kottarathil.net/about/</guid>
+      <description>&lt;p&gt;Hello There! My name is Praveen Kottarathil; I am an IT Professional based in The Netherlands. I have been working in various parts of the IT Ecosystem, since my first job as a Software Developer and Trainer back in in 2004 and never looked back.&lt;/p&gt;
+&lt;p&gt;I currently work with &lt;a href=&#34;https://www.ing.com/&#34;&gt;ING&lt;/a&gt;, on various back-end systems that enable self-service and assisted banking services in 🇳🇱&lt;a href=&#34;https://ing.nl&#34;&gt;Netherlands&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://ing.be&#34;&gt;🇧🇪Belgium&lt;/a&gt;. Formerly I was an engineer and subject matter expert at ✈️&lt;a href=&#34;https://www.emirates.com&#34;&gt;Emirates&lt;/a&gt; where I used to build and operate back-office planning &amp;amp; (mathematical)optimization systems for Emirates Network Control &amp;amp; Operations.&lt;/p&gt;
+&lt;p&gt;I am &lt;a href=&#34;https://twitter.com/praveenkp&#34;&gt;@praveenkp&lt;/a&gt; on Twitter, &lt;a href=&#34;https://stackoverflow.com/users/553385/shelldragon&#34;&gt;@shelldragon&lt;/a&gt; on StackOverflow and &lt;a href=&#34;https://github.com/PickledDragon&#34;&gt;@PickledDragon&lt;/a&gt; on GitHub. My email is basically my first name at last name, followed by the net top-level domain.&lt;/p&gt;
 </description>
     </item>
     
